@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/news-homepage-challenge-using-css-grid-flexbox-and-bem-t2v3NjiP4u)
 - Live Site URL: (https://news-homepage-challengefm.netlify.app)
 
 ## My process
